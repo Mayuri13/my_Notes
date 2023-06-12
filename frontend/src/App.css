@@ -1,0 +1,6 @@
+.navbar-nav .nav-link.active {
+  color: rgb(157, 160, 162); /* Change the color value as desired */
+}
+i{
+  cursor: pointer;
+}
